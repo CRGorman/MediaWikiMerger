@@ -3,3 +3,11 @@
 ################################################################################
 
 /.vs
+/MediaWikiMerger/.vs
+/MediaWikiMerger/bin/Debug
+/MediaWikiMerger/obj
+/MediaWikiMerger/Xbox360Games.txt
+/MediaWikiMerger/XBLAGames.txt
+/MediaWikiMerger/PS3Games.txt
+/MediaWikiMerger/MergedPS3Games.txt
+/MediaWikiMerger/MergedGames.txt
